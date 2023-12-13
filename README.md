@@ -1,2 +1,1 @@
-# CSS-Diner
-Solutions
+CSS Diner solutions from the website : https://flukeout.github.io/
